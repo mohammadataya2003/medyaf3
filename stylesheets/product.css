@@ -1,0 +1,60 @@
+body{
+    direction: rtl;
+    
+}
+
+
+h1 {
+    color: #aa050e;
+    text-align: center;
+    font-size: 28px;
+}
+
+
+
+.container .row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.container .row .box {
+    padding: 5px;
+    /* background: #fff; */
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 5px #888888;
+    font-size: 100%;
+    line-height: 1.4em;
+    float: left;
+
+
+}
+
+.name{
+    text-align: center;
+}
+
+
+.container .row .box img {
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
